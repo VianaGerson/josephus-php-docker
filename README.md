@@ -4,7 +4,7 @@ Algorítimo de Josephus
 ## Executar
 
 ```
-cd folder
+cd 'folder do projeto'
 docker-composer up -d --build
 ```
 Ao executar a imagem acesse [o link](http://localhost:8080)
